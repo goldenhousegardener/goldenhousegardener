@@ -1,11 +1,8 @@
-## Hi there 👋 I'm [Your Name]!
+## Hi there 👋 I'm Puss in boots!
 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
 
 I'm a passionate **Full Stack & AI Engineer** who loves building awesome apps and tools that make life better. Currently working on:
-
-- 🔭 **[Connectabl](https://your-app-link.com)**: A mobile app to discover the best places to eat & drink based on vibe, mood, and social activity.
-- 🛠️ Crafting new AI-powered features and improving stability for scale.
 
 **What I'm up to:**
 
