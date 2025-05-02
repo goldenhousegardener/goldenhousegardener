@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm [Your Name]!
 
-<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
 
 I'm a passionate **Full Stack & AI Engineer** who loves building awesome apps and tools that make life better. Currently working on:
 
