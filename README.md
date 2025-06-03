@@ -17,9 +17,3 @@ I'm a passionate **Full Stack & AI Engineer** who loves building awesome apps an
 
 ---
 
-📫 **How to reach me:**
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Your Website](https://yourwebsite.com)
-
